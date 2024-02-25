@@ -17,7 +17,7 @@ For a detailed analysis with SQL queries and their outputs, you can refer to the
 
 ## Dataset
 
-The dataset used for this analysis is available [here](https://onedrive.live.com/?cid=20E1D6B7BEF796F7&id=20E1D6B7BEF796F7%21258&parId=20E1D6B7BEF796F7%21103&o=OneUp). It includes detailed information.
+The dataset used for this analysis is available [here](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv). It includes detailed information.
 
 ## Contributors
 
